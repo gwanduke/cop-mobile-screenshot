@@ -1,0 +1,13 @@
+{
+  "name": "crop-mobile-screenshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Gwan-duk Kim",
+  "dependencies": {
+    "sharp": "^0.24.1"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
